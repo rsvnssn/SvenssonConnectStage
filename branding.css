@@ -1,0 +1,9 @@
+#application-logo-container > img {
+    display: none;
+}
+
+#application-logo-container {
+    background: url("https://raw.githubusercontent.com/rsvnssn/SvenssonConnectStage/refs/heads/main/support-logo.png");
+    background-size: contain;
+    background-repeat: no-repeat;
+}
